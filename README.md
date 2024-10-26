@@ -4,6 +4,12 @@ This project develops a real-time insect detection system using a Raspberry Pi a
 It helps home gardeners detect insects on houseplants, reducing pesticide use and improving plant health.
 The system uses a YOLOv7 model trained on a custom dataset with Roboflow to capture video, detect insects, and log statistics in a CSV file.
 
+The system:
+
+https://github.com/user-attachments/assets/8e10d0e6-b89b-44e1-a888-286bb4d2ee2e
+
+
+
 Input:
 
 https://github.com/user-attachments/assets/031e9444-9deb-4809-8ba9-2dc0abeaa5d3
